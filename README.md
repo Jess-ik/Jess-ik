@@ -1,8 +1,4 @@
 
-
-![Cover](https://jess-louvel.com/jess-louvel-preview.webp)
-
-
 ###
 
 <h1 align="left">Hey there 👋 I'm Jess' 👩🏽‍💻 🎨</h1>
